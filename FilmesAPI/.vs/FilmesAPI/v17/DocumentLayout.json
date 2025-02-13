@@ -1,76 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\claud\\Versionamento\\FilmesAPI\\FilmesAPI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C3BD4151-C71D-49AC-8829-6B821375ECCD}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\claud\\versionamento\\filmesapi\\filmesapi\\filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3BD4151-C71D-49AC-8829-6B821375ECCD}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3BD4151-C71D-49AC-8829-6B821375ECCD}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\claud\\versionamento\\filmesapi\\filmesapi\\filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3BD4151-C71D-49AC-8829-6B821375ECCD}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3BD4151-C71D-49AC-8829-6B821375ECCD}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\claud\\versionamento\\filmesapi\\filmesapi\\filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C3BD4151-C71D-49AC-8829-6B821375ECCD}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 448,
-          "SelectedChildIndex": 3,
+          "DockedHeight": 301,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\FilmesAPI\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FilmesAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\claud\\Versionamento\\FilmesAPI\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FilmesAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-10T19:49:42.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Filme.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\FilmesAPI\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
-              "RelativeDocumentMoniker": "FilmesAPI\\Models\\Filme.cs",
-              "ToolTip": "C:\\Users\\claud\\Versionamento\\FilmesAPI\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
-              "RelativeToolTip": "FilmesAPI\\Models\\Filme.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T19:09:46.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FilmeController.cs",
-              "DocumentMoniker": "C:\\Users\\claud\\Versionamento\\FilmesAPI\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
-              "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\FilmeController.cs",
-              "ToolTip": "C:\\Users\\claud\\Versionamento\\FilmesAPI\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
-              "RelativeToolTip": "FilmesAPI\\Controllers\\FilmeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T19:03:48.342Z",
-              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 96,
+          "DockedHeight": 243,
           "SelectedChildIndex": -1,
           "Children": [
             {

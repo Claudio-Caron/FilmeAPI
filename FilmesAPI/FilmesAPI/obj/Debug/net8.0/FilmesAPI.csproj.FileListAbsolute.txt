@@ -30,3 +30,13 @@ C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net8.0\refi
 C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.pdb
 C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.genruntimeconfig.cache
 C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net8.0\ref\FilmesAPI.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.sourcelink.json
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
