@@ -40,3 +40,7 @@ C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Micr
 C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
