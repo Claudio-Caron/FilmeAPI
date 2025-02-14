@@ -7,9 +7,12 @@ namespace FilmesAPI.Data
     {
         private string conecctionString = "";
 
+        public FilmeContext(DbContextOptions opts) : base(opts) { }
         public DbSet<Filme> Filmes { get; set; }
-        public FilmeContext(DbContextOptions opts):base(opts) { }
+        
+        public DbSet<Cinema> Cinemas { get; set; }
 
+        
 
     }
 
