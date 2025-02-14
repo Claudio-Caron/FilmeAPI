@@ -44,3 +44,5 @@ C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Micr
 C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\bin\Debug\net8.0\FilmesAPI.xml
+C:\Users\claud\Versionamento\FilmesAPI\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.xml
