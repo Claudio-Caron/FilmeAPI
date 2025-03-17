@@ -19,9 +19,22 @@ public class FilmeController:ControllerBase
     }
 
     [HttpGet]
-    public IEnumerable<ReadFilmeDto> RecuperaFilmesTrecho([FromQuery] int skip = 0, [FromQuery] int take = 50)
+    public IEnumerable<ReadFilmeDto> RecuperaFilmesTrecho(
+        [FromQuery] int skip = 0,
+        [FromQuery] int take = 0,
+        [FromQuery] string? nomeCinema = null)
     {
-        return  _mapper.Map<List<ReadFilmeDto>>(_context.Filmes.Skip(skip).Take(take).ToList());
+        if (nomeCinema == null)
+        {
+            return _mapper.Map<List<ReadFilmeDto>>(_context.Filmes
+                .Skip(skip).Take(take).ToList());
+        }
+        return _mapper.Map<List<ReadFilmeDto>>(_context.Filmes
+            .Skip(skip)
+            .Take(take)
+            .Where(x=>x.Sessoes
+                .Any(x=>x.Cinema.Nome == nomeCinema)))
+            .ToList();
     }
 
     [HttpGet("{id}")]
